@@ -1,0 +1,40 @@
+*{
+    background-color:skyblue;
+    padding: 0%;
+    box-sizing: border-box;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+}
+
+.mother{
+    width: 55%;
+    height: 35%;
+}
+
+.btn{
+    width: 200px;
+    height:200px;
+    background-color: silver;
+    box-shadow:  10px 10px 10px 5px green;
+    color: blue;
+    font-size: 150px;
+    text-align: center;
+}
+
+#lbl{
+    font-size: 30px;
+    color: red;
+    text-align: center;
+}
+
+#res{
+    background-color: orangered;
+    border-radius: 10px;
+    width: 70px;
+    height: 60px;
+    box-shadow: 6px 8px 3px orangered;
+}
+
+
